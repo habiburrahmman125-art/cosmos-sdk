@@ -34,7 +34,7 @@ While the Cosmos SDK is plug-and-play with any consensus engine, we recommend us
 
 **WARNING**: The Cosmos SDK has mostly stabilized, but we are still making some breaking changes.
 
-## Quick Start
+## Quick Start work``
 
 To learn how the Cosmos SDK works from a high-level perspective, see the Cosmos SDK [High-Level Intro](https://docs.cosmos.network/main/intro/overview).
 
